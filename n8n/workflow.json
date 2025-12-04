@@ -6,7 +6,7 @@
     "executionOrder": "v1"
   },
   "meta": {
-    "description": "Placeholder export file for the n8n workflow. In the real project, this file is replaced with the JSON export from n8n.",
-    "notes": "Export from n8n via: Workflow → Export → 'Download JSON' and paste over this content."
+    "description": "Placeholder export file for the n8n workflow that ingests Qubic whale events, writes to Airtable, and posts alerts to Discord.",
+    "notes": "In the full build, export from n8n via: Workflow → Export → 'Download JSON' and paste that JSON over this file."
   }
 }
