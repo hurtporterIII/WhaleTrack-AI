@@ -1,5 +1,12 @@
 {
-  "description": "Placeholder for WhaleTrack-AI n8n automation workflow.",
+  "name": "WhaleTrack-AI – Qubic Whale Alerts",
   "nodes": [],
-  "connections": {}
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "description": "Placeholder export file for the n8n workflow. In the real project, this file is replaced with the JSON export from n8n.",
+    "notes": "Export from n8n via: Workflow → Export → 'Download JSON' and paste over this content."
+  }
 }
